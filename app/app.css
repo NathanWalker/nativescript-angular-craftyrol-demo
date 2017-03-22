@@ -10,3 +10,8 @@ of writing your own CSS rules. For a full list of class names in the theme
 refer to http://docs.nativescript.org/ui/theme.
 */
 @import 'nativescript-theme-core/css/core.light.css';
+
+.slider {
+  background-color:rgba(252, 23, 136, 1);
+}
+
